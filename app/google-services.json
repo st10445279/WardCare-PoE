@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "924640366627",
+    "project_id": "wardcare-7208b",
+    "storage_bucket": "wardcare-7208b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924640366627:android:b526f14509fd1b413aa196",
+        "android_client_info": {
+          "package_name": "com.wardcare.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924640366627-r823uj9gcg40gnhaf5h6efpo3kastosq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wardcare.app",
+            "certificate_hash": "eb558a9d5ee02c720c0969b6a6bddc0b85e4a402"
+          }
+        },
+        {
+          "client_id": "924640366627-iphurvqevabpdjf3hmjbmo74c8dmm0cs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0f6pfYD9sbMb8uf0HWH1uhJw_W6MDmTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "924640366627-iphurvqevabpdjf3hmjbmo74c8dmm0cs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
