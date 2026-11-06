@@ -2,16 +2,16 @@
 <p align="center"><b>A bedside assistant for ward nurses, built to keep working when the Wi-Fi doesn't.</b></p>
 
 <p align="center">
-  <a href="https://github.com/st10445279/WardCare/actions/workflows/android.yml">
-    <img src="https://github.com/st10445279/WardCare/actions/workflows/android.yml/badge.svg" alt="Build status">
+  <a href="https://github.com/st10445279/WardCare-PoE/actions/workflows/android.yml">
+    <img src="https://github.com/st10445279/WardCare-PoE/actions/workflows/android.yml/badge.svg" alt="Build status">
   </a>
   <img src="https://img.shields.io/badge/Kotlin-Android-7F52FF?logo=kotlin&logoColor=white" alt="Kotlin">
   <img src="https://img.shields.io/badge/Firebase-Auth%20%7C%20Firestore%20%7C%20FCM-FFCA28?logo=firebase&logoColor=black" alt="Firebase">
   <img src="https://img.shields.io/badge/version-1.0.0-2150A2" alt="Version">
 </p>
 
-**Team (Group 19):** Tiyase Ntesheng (ST10445279) · Mabelebele Maselelo (ST10436039)
-**Video demo:** _add link here_ · **Download the APK:** [Releases](https://github.com/st10445279/WardCare/releases)
+**Team (Group 19):** Tiyase Nteseng (ST10445279) · Mabelebele Maselelo (ST10436039)
+**Download the APK:** [Releases](https://github.com/st10445279/WardCare-PoE/releases)
 
 > All patient data in this project is fictional. WardCare is **not** a clinical decision-support tool: it gives no dosage advice and does no drug-interaction checking.
 
