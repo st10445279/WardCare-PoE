@@ -11,7 +11,7 @@
 </p>
 
 **Team (Group 19):** Tiyase Nteseng (ST10445279) · Mabelebele Maselelo (ST10436039)
-**Video demo:** _add link here_ · **Download the APK:** [Releases](https://github.com/st10445279/WardCare-PoE/releases)
+ **Download the APK:** [Releases](https://github.com/st10445279/WardCare-PoE/releases)
 
 > All patient data in this project is fictional. WardCare is **not** a clinical decision-support tool: it gives no dosage advice and does no drug-interaction checking.
 
