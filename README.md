@@ -1,10 +1,20 @@
+<h1 align="center">🏥 WardCare</h1>
+<p align="center"><b>A bedside assistant for ward nurses, built to keep working when the Wi-Fi doesn't.</b></p>
+
+<p align="center">
+  <a href="https://github.com/st10445279/WardCare/actions/workflows/android.yml">
+    <img src="https://github.com/st10445279/WardCare/actions/workflows/android.yml/badge.svg" alt="Build status">
+  </a>
+  <img src="https://img.shields.io/badge/Kotlin-Android-7F52FF?logo=kotlin&logoColor=white" alt="Kotlin">
+  <img src="https://img.shields.io/badge/Firebase-Auth%20%7C%20Firestore%20%7C%20FCM-FFCA28?logo=firebase&logoColor=black" alt="Firebase">
+  <img src="https://img.shields.io/badge/version-1.0.0-2150A2" alt="Version">
+</p>
+
 # WardCare
 
 WardCare is a staff-facing Android app (Kotlin) for tracking patients and medication administration on a hospital ward. Nurses log doses as given, missed or delayed, even when the ward Wi-Fi is down, and the app syncs to the cloud when the connection returns. It is **not** a clinical decision-support tool (no dosage advice or drug-interaction checking). All patient data in the demo is fictional.
 
 **Team (Group 19):** Tiyase Nteheng (ST10445279), Mabelebele Maselelo (ST10436039)
-
-**Video demo:** _add link here_ · **Debug APK:** see the GitHub Releases page / the latest GitHub Actions run
 
 ## 1. Purpose of the app
 
