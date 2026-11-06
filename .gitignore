@@ -14,3 +14,7 @@
 .cxx
 local.properties
 app/google-services.json
+.idea/
+build-output.txt
+test-output.txt
+three-files.txt
