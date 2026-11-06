@@ -1,0 +1,17 @@
+<resources>
+    <style name="Base.Theme.WardCare" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Primary brand color: Calm Blue -->
+        <item name="colorPrimary">#1976D2</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorPrimaryContainer">#BBDEFB</item>
+        <item name="colorOnPrimaryContainer">#0D47A1</item>
+
+        <!-- Secondary color: Light Clinical Blue -->
+        <item name="colorSecondary">#42A5F5</item>
+        <item name="colorOnSecondary">#FFFFFF</item>
+
+        <item name="android:statusBarColor">#1565C0</item>
+    </style>
+
+    <style name="Theme.WardCare" parent="Base.Theme.WardCare" />
+</resources>

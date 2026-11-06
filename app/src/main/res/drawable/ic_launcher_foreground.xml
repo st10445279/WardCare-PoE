@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- White rounded card in center -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,30h32c4.4,0 8,3.6 8,8v32c0,4.4 -3.6,8 -8,8H38c-4.4,0 -8,-3.6 -8,-8V38c0,-4.4 3.6,-8 8,-8z" />
+    <!-- Medical Plus Cross in WardCare Blue -->
+    <path
+        android:fillColor="#2150A2"
+        android:pathData="M51,42h6v9h6v6h-6v9h-6v-9h-6v-6h6z" />
+</vector>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="12dp"
+    app:cardBackgroundColor="#EBF3FF"
+    app:cardCornerRadius="8dp"
+    app:cardElevation="0dp"
+    app:strokeColor="#2150A2"
+    app:strokeWidth="1.5dp">
+
+    <TextView
+        android:id="@+id/tvPatientTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp"
+        android:textColor="#1F2937"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        tools:text="Bed 4 - J. Nkosi" />
+
+</com.google.android.material.card.MaterialCardView>

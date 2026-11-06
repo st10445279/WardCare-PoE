@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/notificationsFragment"
+        android:icon="@android:drawable/ic_popup_reminder"
+        android:title="Notifications"
+        app:actionLayout="@layout/action_layout_notification_badge"
+        app:showAsAction="always" />
+</menu>
