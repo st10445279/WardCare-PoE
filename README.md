@@ -11,7 +11,7 @@
 
 WardCare is a staff-facing Android app (Kotlin) for tracking patients and medication administration on a hospital ward. Nurses log doses as given, missed or delayed, even when the ward Wi-Fi is down, and the app syncs to the cloud when the connection returns. It is **not** a clinical decision-support tool (no dosage advice or drug-interaction checking). All patient data in the demo is fictional.
 
-**Team (Group 19):** Tiyase Nteheng (ST10445279), Mabelebele Maselelo (ST10436039)
+**Team (Group 19):** Tiyase Nteseng (ST10445279), Mabelebele Maselelo (ST10436039)
 
 ## 1. Purpose of the app
 
@@ -47,7 +47,8 @@ UI (Fragments, ViewBinding, Navigation) -> ViewModels -> Repositories -> Room (l
 ## 4. Testing and CI
 
 - Unit tests (`app/src/test`): input validation, Firestore JSON mapping, and the offline queue/sync logic (offline stays queued, server error stays queued, batches of 20).
-- **GitHub Actions** (`.github/workflows/android.yml`) runs the unit tests, builds the debug APK and uploads the test report and APK as artifacts on every push.
+- **GitHub Actions** Unit tests and debug build
+The job was not started because your account is locked due to a billing issue.
 
 ## 5. Logging
 
